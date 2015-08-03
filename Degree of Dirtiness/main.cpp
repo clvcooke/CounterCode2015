@@ -52,6 +52,7 @@ int main() {
                 }
             }
         }
+        delete [] toilets;
     }
     return 0;
 }
